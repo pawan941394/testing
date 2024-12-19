@@ -182,3 +182,4 @@ wrapt==1.17.0
 yarl==1.17.1
 yfinance==0.2.50
 gunicorn
+uvicorn
