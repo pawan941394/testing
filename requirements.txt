@@ -127,10 +127,8 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-Levenshtein==0.26.1
 pytz==2024.2
-pywin32==308
 PyYAML==6.0.2
 pyzmq==26.2.0
-quantconnect-stubs==16737
 RapidFuzz==3.11.0
 referencing==0.35.1
 regex==2024.11.6
